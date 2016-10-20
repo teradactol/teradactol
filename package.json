@@ -1,0 +1,19 @@
+{
+  "name": "teradactol",
+  "version": "0.0.0",
+  "description": "More like a company prospectus",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ghostfreak3000@github.com/teradactol/teradactol.git"
+  },
+  "author": "Bishaka Samuel <sbishaka@gmail.com> (https://twitter.com/sbishaka)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teradactol/teradactol/issues"
+  },
+  "homepage": "https://github.com/teradactol/teradactol#readme"
+}
